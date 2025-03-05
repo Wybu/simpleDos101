@@ -11,6 +11,8 @@ Simulate different types of DoS attacks.
 Provide a set of Python scripts to run the attacks.
 
 Allow users to customize the attack parameters.
+![image](https://github.com/user-attachments/assets/09d740cd-ec9e-46e6-a52d-08727e67ba71)
+
 
 * Technology Stack:
 
